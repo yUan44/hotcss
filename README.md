@@ -1,7 +1,6 @@
 # hotcss
 > 让移动端布局开发更加容易
 
-[点击这里一键加群(130977811)，沟通更便捷](//shang.qq.com/wpa/qunwpa?idkey=b6657496bd4d7a5bd3cdd51b3cc6f2de5a6d40a8ad0b9efb2fd235450c653985)
 
 ### 介绍
 
